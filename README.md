@@ -7,7 +7,7 @@ API calls using Javascript
 
 ## Instructions
 
-For tweets -- type my-tweets
-For music spotify-this-song " ",
-For movies type "movie this " ",
-And do-what-it-says
++ For tweets -- type my-tweets
++ For music spotify-this-song " ",
++ For movies type "movie this " ",
++ And do-what-it-says
